@@ -5,7 +5,7 @@
 
 <li class="dropdown dropdown-extended dropdown-notification" id="header_notification_bar">
     <a href="javascript:;" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-close-others="true">
-        <i class="icon-bell"></i>
+        <i class="fa fa-bell" aria-hidden="true"></i>
         <span class="badge badge-default"> 2 </span>
     </a>
     <ul class="dropdown-menu">
